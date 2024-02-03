@@ -1,5 +1,5 @@
-# davidhouse.dev Blog Project Template
+# Create an API client using Test-Driven Development
 
-This repository is a Github Template for getting started with coding projects on my blog.
+This repository contains all of the code written for my article: https://davidhouse.dev/posts/create-an-api-client-with-tdd/
 
-Each blog post will start from this repository at a given commit. Feel free to check out this repo from that commit if you'd like to follow along with a blog post.
+Look through the commits to see how you can incrementally build a robust API client using a Test-Driven Development approach.
